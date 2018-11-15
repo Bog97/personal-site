@@ -37,7 +37,6 @@ function About() {
     <li></li>
     <li></li>
     <li></li>
-    <li></li>
     <li>That is all</li>
   </ul>
   </>
